@@ -1,10 +1,9 @@
-![power bi _zomato _analysis-2](https://github.com/akshay-kumar-m71/zomato-preference-analysis-power-BI-/assets/72317690/d2fa0fa7-f07b-47fc-a2b2-66912e7c603f)
-![power bi _zomato _analysis-1](https://github.com/akshay-kumar-m71/zomato-preference-analysis-power-BI-/assets/72317690/a9b162bc-1293-4a04-8ad4-a5a3b289ef55)
-# zomato-preference-analysis-power-BI-
+
+## zomato-preference-analysis-power-BI-
 This project focuses on conducting preference analysis using Zomato data to gain insights into users' restaurant preferences. The dataset includes information from over 45,000 restaurants, providing a comprehensive representation of the culinary landscape across various regions. 
 
 
-Dataset
+# Dataset
 Dataset link:https://www.kaggle.com/datasets/rrkcoder/zomato-data-40k-restaurants-of-indias-100-cities/download?datasetVersionNumber=1
 
 
@@ -18,7 +17,7 @@ Average Delivery Time: Delivery times providing valuable information for users s
 Safety Measure: Information regarding safety measures implemented by the restaurants.
 Location: Geographic location of the restaurants.
 
-Business Analysis
+# Business Analysis
 
 1. Price Distribution Among Different Cities
 Explore how the average pricing of restaurants varies across different cities. Identify the economic spectrum of dining options in each city, providing insights into the affordability and pricing preferences of users.
