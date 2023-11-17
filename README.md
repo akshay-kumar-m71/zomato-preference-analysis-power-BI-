@@ -1,3 +1,5 @@
+![power bi _zomato _analysis-2](https://github.com/akshay-kumar-m71/zomato-preference-analysis-power-BI-/assets/72317690/d2fa0fa7-f07b-47fc-a2b2-66912e7c603f)
+![power bi _zomato _analysis-1](https://github.com/akshay-kumar-m71/zomato-preference-analysis-power-BI-/assets/72317690/a9b162bc-1293-4a04-8ad4-a5a3b289ef55)
 # zomato-preference-analysis-power-BI-
 This project focuses on conducting preference analysis using Zomato data to gain insights into users' restaurant preferences. The dataset includes information from over 45,000 restaurants, providing a comprehensive representation of the culinary landscape across various regions. 
 
@@ -35,3 +37,9 @@ Calculate the percentage distribution of user ratings (e.g., 5-star, 4-star) acr
 
 6. Most Rated Restaurant
 Determine the most frequently rated restaurant based on user reviews. Highlight the establishment that has garnered the highest number of ratings, offering users a potential go-to option with widespread recognition.
+
+
+
+![power bi _zomato _analysis-1](https://github.com/akshay-kumar-m71/zomato-preference-analysis-power-BI-/assets/72317690/f8ead180-8fdf-42ef-9d76-99e08e7d561e)
+![power bi _zomato _analysis-2](https://github.com/akshay-kumar-m71/zomato-preference-analysis-power-BI-/assets/72317690/3589f1a4-92f5-4874-896d-83d463fedddd)
+
